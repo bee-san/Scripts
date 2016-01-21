@@ -1,0 +1,110 @@
+ 2016-01-04 20:08:52,152 - DEBUG- Start of program
+ 2016-01-04 20:08:52,152 - DEBUG- 1
+ 2016-01-04 20:08:52,152 - DEBUG- 0
+ 2016-01-04 20:08:52,152 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:08:52,152 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:08:52,152 - DEBUG- yes!!!
+ 2016-01-04 20:08:52,153 - DEBUG- it errored!
+ 2016-01-04 20:09:13,087 - DEBUG- Start of program
+ 2016-01-04 20:09:13,091 - DEBUG- 1
+ 2016-01-04 20:09:13,091 - DEBUG- 0
+ 2016-01-04 20:09:13,091 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:09:13,091 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:09:13,091 - DEBUG- yes!!!
+ 2016-01-04 20:09:13,091 - DEBUG- it errored!
+ 2016-01-04 20:09:32,515 - DEBUG- Start of program
+ 2016-01-04 20:09:32,515 - DEBUG- 1
+ 2016-01-04 20:09:32,515 - DEBUG- 0
+ 2016-01-04 20:09:32,515 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:09:32,515 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:09:32,515 - DEBUG- yes!!!
+ 2016-01-04 20:09:32,515 - DEBUG- it errored!
+ 2016-01-04 20:18:06,000 - DEBUG- Start of program
+ 2016-01-04 20:18:06,002 - DEBUG- 1
+ 2016-01-04 20:18:06,002 - DEBUG- 0
+ 2016-01-04 20:18:06,002 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:18:06,002 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:18:06,002 - DEBUG- yes!!!
+ 2016-01-04 20:18:06,002 - DEBUG- it errored!
+ 2016-01-04 20:19:05,752 - DEBUG- Start of program
+ 2016-01-04 20:19:05,754 - DEBUG- 1
+ 2016-01-04 20:19:05,754 - DEBUG- 0
+ 2016-01-04 20:19:05,755 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:19:05,755 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:19:05,755 - DEBUG- yes!!!
+ 2016-01-04 20:19:05,755 - DEBUG- it errored!
+ 2016-01-04 20:19:13,322 - DEBUG- Start of program
+ 2016-01-04 20:19:13,322 - DEBUG- 1
+ 2016-01-04 20:19:13,322 - DEBUG- 0
+ 2016-01-04 20:19:13,322 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:19:13,322 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:19:13,323 - DEBUG- yes!!!
+ 2016-01-04 20:19:13,323 - DEBUG- it errored!
+ 2016-01-04 20:20:27,993 - DEBUG- Start of program
+ 2016-01-04 20:20:27,995 - DEBUG- 1
+ 2016-01-04 20:20:27,995 - DEBUG- 0
+ 2016-01-04 20:20:27,995 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:20:27,995 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:20:27,995 - DEBUG- yes!!!
+ 2016-01-04 20:20:27,995 - DEBUG- it errored!
+ 2016-01-04 20:21:08,037 - DEBUG- Start of program
+ 2016-01-04 20:21:08,039 - DEBUG- 1
+ 2016-01-04 20:21:08,039 - DEBUG- 0
+ 2016-01-04 20:21:08,039 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:21:08,040 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:21:08,040 - DEBUG- yes!!!
+ 2016-01-04 20:21:08,040 - DEBUG- it errored!
+ 2016-01-04 20:21:52,702 - DEBUG- Start of program
+ 2016-01-04 20:21:52,705 - DEBUG- 1
+ 2016-01-04 20:21:52,705 - DEBUG- 0
+ 2016-01-04 20:21:52,705 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:21:52,705 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:21:52,705 - DEBUG- yes!!!
+ 2016-01-04 20:22:33,145 - DEBUG- Start of program
+ 2016-01-04 20:22:33,148 - DEBUG- 1
+ 2016-01-04 20:22:33,148 - DEBUG- 0
+ 2016-01-04 20:22:33,148 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:22:33,148 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:22:33,148 - DEBUG- yes!!!
+ 2016-01-04 20:22:45,477 - DEBUG- Start of program
+ 2016-01-04 20:22:45,477 - DEBUG- 1
+ 2016-01-04 20:22:45,477 - DEBUG- 0
+ 2016-01-04 20:22:45,477 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:22:45,477 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:22:45,477 - DEBUG- yes!!!
+ 2016-01-04 20:23:23,965 - DEBUG- Start of program
+ 2016-01-04 20:23:23,965 - DEBUG- 1
+ 2016-01-04 20:23:23,966 - DEBUG- 0
+ 2016-01-04 20:23:23,966 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:23:23,966 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:23:23,966 - DEBUG- yes!!!
+ 2016-01-04 20:23:55,034 - DEBUG- Start of program
+ 2016-01-04 20:23:55,036 - DEBUG- 1
+ 2016-01-04 20:23:55,036 - DEBUG- 0
+ 2016-01-04 20:23:55,037 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:23:55,037 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:23:55,037 - DEBUG- yes!!!
+ 2016-01-04 20:25:41,136 - DEBUG- Start of program
+ 2016-01-04 20:25:41,139 - DEBUG- 1
+ 2016-01-04 20:25:41,139 - DEBUG- 0
+ 2016-01-04 20:25:41,139 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:25:41,139 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:25:41,139 - DEBUG- yes!!!
+ 2016-01-04 20:26:05,381 - DEBUG- Start of program
+ 2016-01-04 20:26:05,383 - DEBUG- 1
+ 2016-01-04 20:26:05,383 - DEBUG- 0
+ 2016-01-04 20:26:05,384 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:26:05,384 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:26:05,384 - DEBUG- yes!!!
+ 2016-01-04 20:29:52,743 - DEBUG- Start of program
+ 2016-01-04 20:29:52,745 - DEBUG- 1
+ 2016-01-04 20:29:52,745 - DEBUG- 0
+ 2016-01-04 20:29:52,745 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:29:52,745 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:29:52,745 - DEBUG- yes!!!
+ 2016-01-04 20:30:11,305 - DEBUG- Start of program
+ 2016-01-04 20:30:11,307 - DEBUG- 1
+ 2016-01-04 20:30:11,308 - DEBUG- 0
+ 2016-01-04 20:30:11,308 - DEBUG- Trying to divide by 0
+ 2016-01-04 20:30:11,308 - DEBUG- wtf is this 5 yet
+ 2016-01-04 20:30:11,308 - DEBUG- yes!!!

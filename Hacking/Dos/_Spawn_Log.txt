@@ -1,0 +1,893 @@
+ 2016-01-16 17:58:55,596 - DEBUG- connecting
+ 2016-01-16 18:00:10,678 - DEBUG- exception
+ 2016-01-16 18:00:13,684 - DEBUG- exception dos
+ 2016-01-16 18:00:13,684 - DEBUG- connecting
+ 2016-01-16 18:00:19,264 - DEBUG- exception
+ 2016-01-16 18:00:22,270 - DEBUG- exception dos
+ 2016-01-16 18:00:22,270 - DEBUG- connecting
+ 2016-01-16 18:01:37,385 - DEBUG- exception
+ 2016-01-16 18:01:40,387 - DEBUG- exception dos
+ 2016-01-16 18:01:40,388 - DEBUG- connecting
+ 2016-01-16 18:02:57,269 - DEBUG- exception
+ 2016-01-16 18:03:00,274 - DEBUG- exception dos
+ 2016-01-16 18:03:00,274 - DEBUG- connecting
+ 2016-01-16 18:04:17,537 - DEBUG- exception
+ 2016-01-16 18:04:20,544 - DEBUG- exception dos
+ 2016-01-16 18:04:20,545 - DEBUG- connecting
+ 2016-01-16 18:14:40,259 - DEBUG- exception
+ 2016-01-16 18:14:43,266 - DEBUG- exception dos
+ 2016-01-16 18:14:43,266 - DEBUG- connecting
+ 2016-01-16 18:14:43,273 - DEBUG- connected
+ 2016-01-16 18:14:43,279 - DEBUG- close
+ 2016-01-17 21:26:44,942 - DEBUG- connecting
+ 2016-01-17 21:26:44,942 - DEBUG- connecting
+ 2016-01-17 21:26:44,958 - DEBUG- connected
+ 2016-01-17 21:26:51,998 - DEBUG- connected
+ 2016-01-19 11:10:46,709 - DEBUG- connecting
+ 2016-01-19 11:10:46,726 - DEBUG- connected
+ 2016-01-19 11:10:53,840 - DEBUG- connecting
+ 2016-01-19 11:10:54,717 - DEBUG- connected
+ 2016-01-19 11:11:21,448 - DEBUG- connecting
+ 2016-01-19 11:11:21,621 - DEBUG- connected
+ 2016-01-19 11:11:28,898 - DEBUG- connecting
+ 2016-01-19 11:11:29,632 - DEBUG- connected
+ 2016-01-19 11:12:00,492 - DEBUG- connecting
+ 2016-01-19 11:12:00,710 - DEBUG- connected
+ 2016-01-19 11:12:09,882 - DEBUG- connecting
+ 2016-01-19 11:12:10,182 - DEBUG- connected
+ 2016-01-19 11:12:41,832 - DEBUG- connecting
+ 2016-01-19 11:12:43,136 - DEBUG- connected
+ 2016-01-19 11:12:49,179 - DEBUG- connecting
+ 2016-01-19 11:12:51,286 - DEBUG- connected
+ 2016-01-19 11:13:20,349 - DEBUG- connecting
+ 2016-01-19 11:13:20,357 - DEBUG- connected
+ 2016-01-19 11:13:28,382 - DEBUG- connecting
+ 2016-01-19 11:13:29,134 - DEBUG- connected
+ 2016-01-19 11:14:12,323 - DEBUG- connecting
+ 2016-01-19 11:14:13,483 - DEBUG- connected
+ 2016-01-19 11:14:19,762 - DEBUG- connecting
+ 2016-01-19 11:14:20,335 - DEBUG- connected
+ 2016-01-19 11:14:50,989 - DEBUG- connecting
+ 2016-01-19 11:14:51,067 - DEBUG- connected
+ 2016-01-19 11:14:58,471 - DEBUG- connecting
+ 2016-01-19 11:14:59,236 - DEBUG- connected
+ 2016-01-19 11:15:41,967 - DEBUG- connecting
+ 2016-01-19 11:15:42,281 - DEBUG- connected
+ 2016-01-19 11:15:49,665 - DEBUG- connecting
+ 2016-01-19 11:15:49,765 - DEBUG- connected
+ 2016-01-19 11:16:45,334 - DEBUG- connecting
+ 2016-01-19 11:16:45,693 - DEBUG- connected
+ 2016-01-19 11:16:52,630 - DEBUG- connecting
+ 2016-01-19 11:16:53,145 - DEBUG- connected
+ 2016-01-19 11:17:25,776 - DEBUG- connecting
+ 2016-01-19 11:17:25,989 - DEBUG- connected
+ 2016-01-19 11:17:33,047 - DEBUG- connecting
+ 2016-01-19 11:17:35,053 - DEBUG- connected
+ 2016-01-19 11:18:04,289 - DEBUG- connecting
+ 2016-01-19 11:18:04,327 - DEBUG- connected
+ 2016-01-19 11:18:11,642 - DEBUG- connecting
+ 2016-01-19 11:18:12,537 - DEBUG- connected
+ 2016-01-19 11:18:43,145 - DEBUG- connecting
+ 2016-01-19 11:18:43,440 - DEBUG- connected
+ 2016-01-19 11:18:51,658 - DEBUG- connecting
+ 2016-01-19 11:18:52,419 - DEBUG- connected
+ 2016-01-19 11:19:27,554 - DEBUG- connecting
+ 2016-01-19 11:19:27,783 - DEBUG- connected
+ 2016-01-19 11:19:34,813 - DEBUG- connecting
+ 2016-01-19 11:19:35,322 - DEBUG- connected
+ 2016-01-19 11:20:12,286 - DEBUG- connecting
+ 2016-01-19 11:20:12,596 - DEBUG- connected
+ 2016-01-19 11:20:20,310 - DEBUG- connecting
+ 2016-01-19 11:20:21,535 - DEBUG- connected
+ 2016-01-19 11:20:51,563 - DEBUG- connecting
+ 2016-01-19 11:20:51,884 - DEBUG- connected
+ 2016-01-19 11:20:58,940 - DEBUG- connecting
+ 2016-01-19 11:20:59,396 - DEBUG- connected
+ 2016-01-19 11:21:34,723 - DEBUG- connecting
+ 2016-01-19 11:21:34,975 - DEBUG- connected
+ 2016-01-19 11:21:42,653 - DEBUG- connecting
+ 2016-01-19 11:21:43,454 - DEBUG- connected
+ 2016-01-19 11:22:14,056 - DEBUG- connecting
+ 2016-01-19 11:22:14,455 - DEBUG- connected
+ 2016-01-19 11:22:21,459 - DEBUG- connecting
+ 2016-01-19 11:22:21,842 - DEBUG- connected
+ 2016-01-19 11:22:53,265 - DEBUG- connecting
+ 2016-01-19 11:22:53,953 - DEBUG- connected
+ 2016-01-19 11:23:00,575 - DEBUG- connecting
+ 2016-01-19 11:23:00,956 - DEBUG- connected
+ 2016-01-19 11:26:30,616 - DEBUG- connecting
+ 2016-01-19 11:26:30,645 - DEBUG- connected
+ 2016-01-19 11:26:37,849 - DEBUG- connecting
+ 2016-01-19 11:26:38,574 - DEBUG- connected
+ 2016-01-19 14:57:39,577 - DEBUG- connecting
+ 2016-01-19 14:57:39,585 - DEBUG- connected
+ 2016-01-19 14:59:22,564 - DEBUG- connecting
+ 2016-01-19 14:59:22,570 - DEBUG- connected
+ 2016-01-19 14:59:29,651 - DEBUG- connecting
+ 2016-01-19 14:59:30,552 - DEBUG- connected
+ 2016-01-19 15:00:16,202 - DEBUG- connecting
+ 2016-01-19 15:00:16,210 - DEBUG- connected
+ 2016-01-19 15:00:23,427 - DEBUG- connecting
+ 2016-01-19 15:00:23,983 - DEBUG- connected
+ 2016-01-19 15:00:56,136 - DEBUG- connecting
+ 2016-01-19 15:00:56,743 - DEBUG- connected
+ 2016-01-19 15:01:05,389 - DEBUG- connecting
+ 2016-01-19 15:01:05,484 - DEBUG- connected
+ 2016-01-19 15:01:36,887 - DEBUG- connecting
+ 2016-01-19 15:01:37,328 - DEBUG- connected
+ 2016-01-19 15:01:44,501 - DEBUG- connecting
+ 2016-01-19 15:01:48,461 - DEBUG- connected
+ 2016-01-19 15:02:27,587 - DEBUG- connecting
+ 2016-01-19 15:02:27,593 - DEBUG- connected
+ 2016-01-19 15:02:34,671 - DEBUG- connecting
+ 2016-01-19 15:02:35,005 - DEBUG- connected
+ 2016-01-19 16:17:10,576 - DEBUG- connecting
+ 2016-01-19 16:17:10,662 - DEBUG- connected
+ 2016-01-19 16:17:17,736 - DEBUG- connecting
+ 2016-01-19 16:17:18,561 - DEBUG- connected
+ 2016-01-19 16:17:49,630 - DEBUG- connecting
+ 2016-01-19 16:17:51,083 - DEBUG- connected
+ 2016-01-19 16:18:04,598 - DEBUG- connecting
+ 2016-01-19 16:18:06,532 - DEBUG- connected
+ 2016-01-19 16:18:35,643 - DEBUG- connecting
+ 2016-01-19 16:18:35,700 - DEBUG- connected
+ 2016-01-19 16:18:43,125 - DEBUG- connecting
+ 2016-01-19 16:18:43,975 - DEBUG- connected
+ 2016-01-19 16:19:14,190 - DEBUG- connecting
+ 2016-01-19 16:19:14,196 - DEBUG- connected
+ 2016-01-19 16:19:21,251 - DEBUG- connecting
+ 2016-01-19 16:19:22,106 - DEBUG- connected
+ 2016-01-19 16:19:52,560 - DEBUG- connecting
+ 2016-01-19 16:20:10,746 - DEBUG- connected
+ 2016-01-19 16:20:24,304 - DEBUG- connecting
+ 2016-01-19 16:20:25,041 - DEBUG- connected
+ 2016-01-19 19:10:55,585 - DEBUG- connecting
+ 2016-01-19 19:10:55,596 - DEBUG- connected
+ 2016-01-19 19:11:26,924 - DEBUG- connecting
+ 2016-01-19 19:11:27,620 - DEBUG- connected
+ 2016-01-19 19:11:37,485 - DEBUG- connecting
+ 2016-01-19 19:11:37,926 - DEBUG- connected
+ 2016-01-19 19:12:35,713 - DEBUG- connecting
+ 2016-01-19 19:12:35,750 - DEBUG- connected
+ 2016-01-19 19:12:42,957 - DEBUG- connecting
+ 2016-01-19 19:12:43,152 - DEBUG- connected
+ 2016-01-19 19:13:08,219 - DEBUG- connecting
+ 2016-01-19 19:13:08,249 - DEBUG- connected
+ 2016-01-19 19:13:14,385 - DEBUG- connecting
+ 2016-01-19 19:13:14,691 - DEBUG- connected
+ 2016-01-19 19:13:45,579 - DEBUG- connecting
+ 2016-01-19 19:13:46,089 - DEBUG- connected
+ 2016-01-19 19:13:53,562 - DEBUG- connecting
+ 2016-01-19 19:13:54,076 - DEBUG- connected
+ 2016-01-19 19:14:24,612 - DEBUG- connecting
+ 2016-01-19 19:14:25,105 - DEBUG- connected
+ 2016-01-19 19:14:25,105 - DEBUG- conneted to router
+ 2016-01-19 19:14:25,567 - DEBUG- logged in
+ 2016-01-19 19:14:25,567 - DEBUG- dossing
+ 2016-01-19 19:14:32,115 - DEBUG- connecting
+ 2016-01-19 19:14:32,579 - DEBUG- connected
+ 2016-01-19 19:14:32,580 - DEBUG- conneted to router
+ 2016-01-19 19:14:33,054 - DEBUG- logged in
+ 2016-01-19 19:14:33,054 - DEBUG- dossing
+ 2016-01-19 19:15:03,606 - DEBUG- connecting
+ 2016-01-19 19:15:04,222 - DEBUG- connected
+ 2016-01-19 19:15:04,222 - DEBUG- conneted to router
+ 2016-01-19 19:15:04,560 - DEBUG- logged in
+ 2016-01-19 19:15:04,560 - DEBUG- dossing
+ 2016-01-19 19:15:11,122 - DEBUG- connecting
+ 2016-01-19 19:15:11,544 - DEBUG- connected
+ 2016-01-19 19:15:11,544 - DEBUG- conneted to router
+ 2016-01-19 19:15:12,042 - DEBUG- logged in
+ 2016-01-19 19:15:12,042 - DEBUG- dossing
+ 2016-01-19 19:15:42,436 - DEBUG- connecting
+ 2016-01-19 19:15:42,930 - DEBUG- connected
+ 2016-01-19 19:15:42,930 - DEBUG- conneted to router
+ 2016-01-19 19:15:43,366 - DEBUG- logged in
+ 2016-01-19 19:15:43,366 - DEBUG- dossing
+ 2016-01-19 19:15:50,031 - DEBUG- connecting
+ 2016-01-19 19:15:50,405 - DEBUG- connected
+ 2016-01-19 19:15:50,405 - DEBUG- conneted to router
+ 2016-01-19 19:15:50,867 - DEBUG- logged in
+ 2016-01-19 19:15:50,867 - DEBUG- dossing
+ 2016-01-19 19:16:22,050 - DEBUG- connecting
+ 2016-01-19 19:16:22,625 - DEBUG- connected
+ 2016-01-19 19:16:22,626 - DEBUG- conneted to router
+ 2016-01-19 19:16:23,694 - DEBUG- logged in
+ 2016-01-19 19:16:23,695 - DEBUG- dossing
+ 2016-01-19 19:16:28,971 - DEBUG- connecting
+ 2016-01-19 19:16:29,407 - DEBUG- connected
+ 2016-01-19 19:16:29,407 - DEBUG- conneted to router
+ 2016-01-19 19:16:31,776 - DEBUG- logged in
+ 2016-01-19 19:16:31,776 - DEBUG- dossing
+ 2016-01-19 19:17:08,776 - DEBUG- connecting
+ 2016-01-19 19:17:09,235 - DEBUG- connected
+ 2016-01-19 19:17:09,236 - DEBUG- conneted to router
+ 2016-01-19 19:17:09,714 - DEBUG- logged in
+ 2016-01-19 19:17:09,715 - DEBUG- dossing
+ 2016-01-19 19:17:16,346 - DEBUG- connecting
+ 2016-01-19 19:17:16,736 - DEBUG- connected
+ 2016-01-19 19:17:16,736 - DEBUG- conneted to router
+ 2016-01-19 19:17:17,242 - DEBUG- logged in
+ 2016-01-19 19:17:17,242 - DEBUG- dossing
+ 2016-01-19 19:17:47,695 - DEBUG- connecting
+ 2016-01-19 19:17:48,167 - DEBUG- connected
+ 2016-01-19 19:17:48,167 - DEBUG- conneted to router
+ 2016-01-19 19:17:48,679 - DEBUG- logged in
+ 2016-01-19 19:17:48,679 - DEBUG- dossing
+ 2016-01-19 19:17:55,105 - DEBUG- connecting
+ 2016-01-19 19:17:55,642 - DEBUG- connected
+ 2016-01-19 19:17:55,643 - DEBUG- conneted to router
+ 2016-01-19 19:17:56,155 - DEBUG- logged in
+ 2016-01-19 19:17:56,155 - DEBUG- dossing
+ 2016-01-19 19:18:26,709 - DEBUG- connecting
+ 2016-01-19 19:18:27,068 - DEBUG- connected
+ 2016-01-19 19:18:27,068 - DEBUG- conneted to router
+ 2016-01-19 19:18:27,592 - DEBUG- logged in
+ 2016-01-19 19:18:27,592 - DEBUG- dossing
+ 2016-01-19 19:18:34,195 - DEBUG- connecting
+ 2016-01-19 19:18:34,667 - DEBUG- connected
+ 2016-01-19 19:18:34,667 - DEBUG- conneted to router
+ 2016-01-19 19:18:36,501 - DEBUG- logged in
+ 2016-01-19 19:18:36,501 - DEBUG- dossing
+ 2016-01-19 19:19:05,314 - DEBUG- connecting
+ 2016-01-19 19:19:05,788 - DEBUG- connected
+ 2016-01-19 19:19:05,788 - DEBUG- conneted to router
+ 2016-01-19 19:19:06,266 - DEBUG- logged in
+ 2016-01-19 19:19:06,266 - DEBUG- dossing
+ 2016-01-19 19:19:12,973 - DEBUG- connecting
+ 2016-01-19 19:19:13,366 - DEBUG- connected
+ 2016-01-19 19:19:13,366 - DEBUG- conneted to router
+ 2016-01-19 19:19:13,775 - DEBUG- logged in
+ 2016-01-19 19:19:13,776 - DEBUG- dossing
+ 2016-01-19 19:19:44,570 - DEBUG- connecting
+ 2016-01-19 19:19:44,847 - DEBUG- connected
+ 2016-01-19 19:19:44,847 - DEBUG- conneted to router
+ 2016-01-19 19:19:45,354 - DEBUG- logged in
+ 2016-01-19 19:19:45,354 - DEBUG- dossing
+ 2016-01-19 19:19:51,878 - DEBUG- connecting
+ 2016-01-19 19:19:52,381 - DEBUG- connected
+ 2016-01-19 19:19:52,381 - DEBUG- conneted to router
+ 2016-01-19 19:19:52,790 - DEBUG- logged in
+ 2016-01-19 19:19:52,791 - DEBUG- dossing
+ 2016-01-19 19:20:23,001 - DEBUG- connecting
+ 2016-01-19 19:20:23,074 - DEBUG- connected
+ 2016-01-19 19:20:23,075 - DEBUG- conneted to router
+ 2016-01-19 19:20:23,079 - DEBUG- logged in
+ 2016-01-19 19:20:23,080 - DEBUG- dossing
+ 2016-01-19 19:20:30,120 - DEBUG- connecting
+ 2016-01-19 19:20:30,958 - DEBUG- connected
+ 2016-01-19 19:20:30,958 - DEBUG- conneted to router
+ 2016-01-19 19:21:01,646 - DEBUG- connecting
+ 2016-01-19 19:21:02,117 - DEBUG- connected
+ 2016-01-19 19:21:02,117 - DEBUG- conneted to router
+ 2016-01-19 19:21:02,566 - DEBUG- logged in
+ 2016-01-19 19:21:02,566 - DEBUG- dossing
+ 2016-01-19 19:21:10,570 - DEBUG- connecting
+ 2016-01-19 19:21:11,230 - DEBUG- connected
+ 2016-01-19 19:21:11,230 - DEBUG- conneted to router
+ 2016-01-19 19:21:11,640 - DEBUG- logged in
+ 2016-01-19 19:21:11,640 - DEBUG- dossing
+ 2016-01-19 19:21:42,820 - DEBUG- connecting
+ 2016-01-19 19:21:43,272 - DEBUG- connected
+ 2016-01-19 19:21:43,272 - DEBUG- conneted to router
+ 2016-01-19 19:21:43,794 - DEBUG- logged in
+ 2016-01-19 19:21:43,795 - DEBUG- dossing
+ 2016-01-19 19:21:52,334 - DEBUG- connecting
+ 2016-01-19 19:21:52,805 - DEBUG- connected
+ 2016-01-19 19:21:52,806 - DEBUG- conneted to router
+ 2016-01-19 19:21:52,970 - DEBUG- logged in
+ 2016-01-19 19:21:52,970 - DEBUG- dossing
+ 2016-01-19 19:22:24,087 - DEBUG- connecting
+ 2016-01-19 19:22:24,471 - DEBUG- connected
+ 2016-01-19 19:22:24,471 - DEBUG- conneted to router
+ 2016-01-19 19:22:27,540 - DEBUG- logged in
+ 2016-01-19 19:22:27,540 - DEBUG- dossing
+ 2016-01-19 19:22:31,505 - DEBUG- connecting
+ 2016-01-19 19:23:15,147 - DEBUG- connecting
+ 2016-01-19 19:23:19,028 - DEBUG- connected
+ 2016-01-19 19:23:19,028 - DEBUG- conneted to router
+ 2016-01-19 19:23:19,475 - DEBUG- logged in
+ 2016-01-19 19:23:19,475 - DEBUG- dossing
+ 2016-01-19 19:23:22,509 - DEBUG- connected
+ 2016-01-19 19:23:22,510 - DEBUG- conneted to router
+ 2016-01-19 19:23:22,549 - DEBUG- connecting
+ 2016-01-19 19:23:23,040 - DEBUG- logged in
+ 2016-01-19 19:23:23,040 - DEBUG- dossing
+ 2016-01-19 19:23:24,560 - DEBUG- connected
+ 2016-01-19 19:23:24,561 - DEBUG- conneted to router
+ 2016-01-19 19:23:24,565 - DEBUG- logged in
+ 2016-01-19 19:23:24,565 - DEBUG- dossing
+ 2016-01-19 19:23:53,599 - DEBUG- connecting
+ 2016-01-19 19:23:53,669 - DEBUG- connected
+ 2016-01-19 19:23:53,669 - DEBUG- conneted to router
+ 2016-01-19 19:23:53,680 - DEBUG- logged in
+ 2016-01-19 19:23:53,681 - DEBUG- dossing
+ 2016-01-19 19:24:01,202 - DEBUG- connecting
+ 2016-01-19 19:24:02,039 - DEBUG- connected
+ 2016-01-19 19:24:02,039 - DEBUG- conneted to router
+ 2016-01-19 19:24:24,815 - DEBUG- connecting
+ 2016-01-19 19:24:25,543 - DEBUG- connected
+ 2016-01-19 19:24:25,543 - DEBUG- conneted to router
+ 2016-01-19 19:24:25,549 - DEBUG- logged in
+ 2016-01-19 19:24:25,549 - DEBUG- dossing
+ 2016-01-19 19:24:32,104 - DEBUG- connecting
+ 2016-01-19 19:24:32,560 - DEBUG- connected
+ 2016-01-19 19:24:32,561 - DEBUG- conneted to router
+ 2016-01-19 19:24:32,920 - DEBUG- logged in
+ 2016-01-19 19:24:32,921 - DEBUG- dossing
+ 2016-01-19 19:25:15,446 - DEBUG- connecting
+ 2016-01-19 19:25:15,904 - DEBUG- connected
+ 2016-01-19 19:25:15,905 - DEBUG- conneted to router
+ 2016-01-19 19:25:16,484 - DEBUG- logged in
+ 2016-01-19 19:25:16,484 - DEBUG- dossing
+ 2016-01-19 19:25:23,285 - DEBUG- connecting
+ 2016-01-19 19:25:23,378 - DEBUG- connected
+ 2016-01-19 19:25:23,378 - DEBUG- conneted to router
+ 2016-01-19 19:25:23,754 - DEBUG- logged in
+ 2016-01-19 19:25:23,754 - DEBUG- dossing
+ 2016-01-19 19:25:54,641 - DEBUG- connecting
+ 2016-01-19 19:25:57,440 - DEBUG- connected
+ 2016-01-19 19:25:57,440 - DEBUG- conneted to router
+ 2016-01-19 19:25:57,525 - DEBUG- logged in
+ 2016-01-19 19:25:57,525 - DEBUG- dossing
+ 2016-01-19 19:26:02,062 - DEBUG- connecting
+ 2016-01-19 19:26:40,796 - DEBUG- connecting
+ 2016-01-19 19:26:48,355 - DEBUG- connecting
+ 2016-01-19 19:26:48,543 - DEBUG- connected
+ 2016-01-19 19:26:48,543 - DEBUG- conneted to router
+ 2016-01-19 19:26:49,055 - DEBUG- logged in
+ 2016-01-19 19:26:49,055 - DEBUG- dossing
+ 2016-01-19 19:26:51,535 - DEBUG- connected
+ 2016-01-19 19:26:51,536 - DEBUG- conneted to router
+ 2016-01-19 19:26:51,841 - DEBUG- logged in
+ 2016-01-19 19:26:51,842 - DEBUG- dossing
+ 2016-01-19 19:26:55,317 - DEBUG- connecting
+ 2016-01-19 19:26:55,324 - DEBUG- connected
+ 2016-01-19 19:26:55,324 - DEBUG- conneted to router
+ 2016-01-19 19:26:55,328 - DEBUG- logged in
+ 2016-01-19 19:26:55,328 - DEBUG- dossing
+ 2016-01-19 19:27:26,682 - DEBUG- connecting
+ 2016-01-19 19:27:27,045 - DEBUG- connected
+ 2016-01-19 19:27:27,046 - DEBUG- conneted to router
+ 2016-01-19 19:27:27,558 - DEBUG- logged in
+ 2016-01-19 19:27:27,558 - DEBUG- dossing
+ 2016-01-19 19:27:34,054 - DEBUG- connecting
+ 2016-01-19 19:27:34,623 - DEBUG- connected
+ 2016-01-19 19:27:34,623 - DEBUG- conneted to router
+ 2016-01-19 19:28:05,161 - DEBUG- connecting
+ 2016-01-19 19:28:05,610 - DEBUG- connected
+ 2016-01-19 19:28:05,611 - DEBUG- conneted to router
+ 2016-01-19 19:28:12,130 - DEBUG- logged in
+ 2016-01-19 19:28:12,130 - DEBUG- dossing
+ 2016-01-19 19:28:12,640 - DEBUG- connecting
+ 2016-01-19 19:28:14,355 - DEBUG- connected
+ 2016-01-19 19:28:14,355 - DEBUG- conneted to router
+ 2016-01-19 19:28:14,664 - DEBUG- logged in
+ 2016-01-19 19:28:14,664 - DEBUG- dossing
+ 2016-01-19 19:28:20,621 - DEBUG- connecting
+ 2016-01-19 19:28:21,786 - DEBUG- connected
+ 2016-01-19 19:28:21,786 - DEBUG- conneted to router
+ 2016-01-19 19:28:52,086 - DEBUG- connecting
+ 2016-01-19 19:28:52,531 - DEBUG- connected
+ 2016-01-19 19:28:52,531 - DEBUG- conneted to router
+ 2016-01-19 19:28:53,166 - DEBUG- logged in
+ 2016-01-19 19:28:53,166 - DEBUG- dossing
+ 2016-01-19 19:29:35,185 - DEBUG- connecting
+ 2016-01-19 19:29:35,665 - DEBUG- connected
+ 2016-01-19 19:29:35,665 - DEBUG- conneted to router
+ 2016-01-19 19:29:36,175 - DEBUG- logged in
+ 2016-01-19 19:29:36,175 - DEBUG- dossing
+ 2016-01-19 19:30:19,190 - DEBUG- connecting
+ 2016-01-19 19:30:19,649 - DEBUG- connected
+ 2016-01-19 19:30:19,649 - DEBUG- conneted to router
+ 2016-01-19 19:30:20,147 - DEBUG- logged in
+ 2016-01-19 19:30:20,147 - DEBUG- dossing
+ 2016-01-19 19:30:26,679 - DEBUG- connecting
+ 2016-01-19 19:30:27,171 - DEBUG- connected
+ 2016-01-19 19:30:27,171 - DEBUG- conneted to router
+ 2016-01-19 19:30:27,629 - DEBUG- logged in
+ 2016-01-19 19:30:27,629 - DEBUG- dossing
+ 2016-01-19 19:31:00,163 - DEBUG- connecting
+ 2016-01-19 19:31:00,656 - DEBUG- connected
+ 2016-01-19 19:31:00,657 - DEBUG- conneted to router
+ 2016-01-19 19:31:01,105 - DEBUG- logged in
+ 2016-01-19 19:31:01,105 - DEBUG- dossing
+ 2016-01-19 19:31:07,776 - DEBUG- connecting
+ 2016-01-19 19:31:38,873 - DEBUG- connecting
+ 2016-01-19 19:31:38,881 - DEBUG- connected
+ 2016-01-19 19:31:38,881 - DEBUG- conneted to router
+ 2016-01-19 19:31:38,885 - DEBUG- logged in
+ 2016-01-19 19:31:38,885 - DEBUG- dossing
+ 2016-01-19 19:31:43,220 - DEBUG- connected
+ 2016-01-19 19:31:43,221 - DEBUG- conneted to router
+ 2016-01-19 19:31:43,768 - DEBUG- logged in
+ 2016-01-19 19:31:43,768 - DEBUG- dossing
+ 2016-01-19 19:31:45,926 - DEBUG- connecting
+ 2016-01-19 19:31:46,839 - DEBUG- connected
+ 2016-01-19 19:31:46,839 - DEBUG- conneted to router
+ 2016-01-19 19:32:17,480 - DEBUG- connecting
+ 2016-01-19 19:32:17,970 - DEBUG- connected
+ 2016-01-19 19:32:17,970 - DEBUG- conneted to router
+ 2016-01-19 19:32:18,439 - DEBUG- logged in
+ 2016-01-19 19:32:18,439 - DEBUG- dossing
+ 2016-01-19 19:32:49,147 - DEBUG- connecting
+ 2016-01-19 19:32:51,336 - DEBUG- connected
+ 2016-01-19 19:32:51,336 - DEBUG- conneted to router
+ 2016-01-19 19:32:55,610 - DEBUG- logged in
+ 2016-01-19 19:32:55,610 - DEBUG- dossing
+ 2016-01-19 19:32:56,257 - DEBUG- connecting
+ 2016-01-19 19:32:56,712 - DEBUG- connected
+ 2016-01-19 19:32:56,712 - DEBUG- conneted to router
+ 2016-01-19 19:32:57,292 - DEBUG- logged in
+ 2016-01-19 19:32:57,293 - DEBUG- dossing
+ 2016-01-19 19:33:03,522 - DEBUG- connecting
+ 2016-01-19 19:33:25,722 - DEBUG- connected
+ 2016-01-19 19:33:25,723 - DEBUG- conneted to router
+ 2016-01-19 19:33:26,272 - DEBUG- logged in
+ 2016-01-19 19:33:26,272 - DEBUG- dossing
+ 2016-01-19 19:33:35,020 - DEBUG- connecting
+ 2016-01-19 19:34:08,946 - DEBUG- connected
+ 2016-01-19 19:34:08,946 - DEBUG- conneted to router
+ 2016-01-19 19:34:08,987 - DEBUG- connecting
+ 2016-01-19 19:34:09,445 - DEBUG- logged in
+ 2016-01-19 19:34:09,445 - DEBUG- dossing
+ 2016-01-19 19:34:11,492 - DEBUG- connected
+ 2016-01-19 19:34:11,492 - DEBUG- conneted to router
+ 2016-01-19 19:34:12,046 - DEBUG- logged in
+ 2016-01-19 19:34:12,046 - DEBUG- dossing
+ 2016-01-19 19:34:17,926 - DEBUG- connecting
+ 2016-01-19 19:34:44,721 - DEBUG- connected
+ 2016-01-19 19:34:44,721 - DEBUG- conneted to router
+ 2016-01-19 19:34:44,726 - DEBUG- logged in
+ 2016-01-19 19:34:44,726 - DEBUG- dossing
+ 2016-01-19 19:34:44,762 - DEBUG- connecting
+ 2016-01-19 19:34:45,941 - DEBUG- connected
+ 2016-01-19 19:34:45,941 - DEBUG- conneted to router
+ 2016-01-19 19:34:48,933 - DEBUG- logged in
+ 2016-01-19 19:34:48,933 - DEBUG- dossing
+ 2016-01-19 19:34:52,671 - DEBUG- connecting
+ 2016-01-19 19:35:14,946 - DEBUG- connected
+ 2016-01-19 19:35:14,946 - DEBUG- conneted to router
+ 2016-01-19 19:35:14,994 - DEBUG- connecting
+ 2016-01-19 19:35:15,470 - DEBUG- logged in
+ 2016-01-19 19:35:15,470 - DEBUG- dossing
+ 2016-01-19 19:35:18,890 - DEBUG- connected
+ 2016-01-19 19:35:18,890 - DEBUG- conneted to router
+ 2016-01-19 19:35:19,032 - DEBUG- logged in
+ 2016-01-19 19:35:19,032 - DEBUG- dossing
+ 2016-01-19 19:35:22,409 - DEBUG- connecting
+ 2016-01-19 19:35:22,927 - DEBUG- connected
+ 2016-01-19 19:35:22,927 - DEBUG- conneted to router
+ 2016-01-19 19:35:54,063 - DEBUG- connecting
+ 2016-01-19 19:35:54,448 - DEBUG- connected
+ 2016-01-19 19:35:54,448 - DEBUG- conneted to router
+ 2016-01-19 19:36:01,201 - DEBUG- logged in
+ 2016-01-19 19:36:01,202 - DEBUG- dossing
+ 2016-01-19 19:36:01,373 - DEBUG- connecting
+ 2016-01-19 19:36:04,819 - DEBUG- connected
+ 2016-01-19 19:36:04,819 - DEBUG- conneted to router
+ 2016-01-19 19:36:06,872 - DEBUG- logged in
+ 2016-01-19 19:36:06,873 - DEBUG- dossing
+ 2016-01-19 19:36:09,354 - DEBUG- connecting
+ 2016-01-19 19:36:09,379 - DEBUG- connected
+ 2016-01-19 19:36:09,379 - DEBUG- conneted to router
+ 2016-01-19 19:36:09,383 - DEBUG- logged in
+ 2016-01-19 19:36:09,383 - DEBUG- dossing
+ 2016-01-19 19:36:49,408 - DEBUG- connecting
+ 2016-01-19 19:36:49,761 - DEBUG- connected
+ 2016-01-19 19:36:49,762 - DEBUG- conneted to router
+ 2016-01-19 19:36:50,257 - DEBUG- logged in
+ 2016-01-19 19:36:50,257 - DEBUG- dossing
+ 2016-01-19 19:36:56,958 - DEBUG- connecting
+ 2016-01-19 19:36:57,153 - DEBUG- connected
+ 2016-01-19 19:36:57,153 - DEBUG- conneted to router
+ 2016-01-19 19:36:57,651 - DEBUG- logged in
+ 2016-01-19 19:36:57,652 - DEBUG- dossing
+ 2016-01-19 19:37:42,763 - DEBUG- connecting
+ 2016-01-19 19:37:42,923 - DEBUG- connected
+ 2016-01-19 19:37:42,923 - DEBUG- conneted to router
+ 2016-01-19 19:37:43,507 - DEBUG- logged in
+ 2016-01-19 19:37:43,507 - DEBUG- dossing
+ 2016-01-19 19:38:15,815 - DEBUG- connecting
+ 2016-01-19 19:38:15,822 - DEBUG- connected
+ 2016-01-19 19:38:15,822 - DEBUG- conneted to router
+ 2016-01-19 19:38:15,827 - DEBUG- logged in
+ 2016-01-19 19:38:15,827 - DEBUG- dossing
+ 2016-01-19 19:38:22,966 - DEBUG- connecting
+ 2016-01-19 19:38:23,238 - DEBUG- connected
+ 2016-01-19 19:38:23,238 - DEBUG- conneted to router
+ 2016-01-19 19:38:54,256 - DEBUG- connecting
+ 2016-01-19 19:38:54,573 - DEBUG- connected
+ 2016-01-19 19:38:54,573 - DEBUG- conneted to router
+ 2016-01-19 19:38:55,086 - DEBUG- logged in
+ 2016-01-19 19:38:55,087 - DEBUG- dossing
+ 2016-01-19 19:39:01,582 - DEBUG- connecting
+ 2016-01-19 19:39:02,055 - DEBUG- connected
+ 2016-01-19 19:39:02,055 - DEBUG- conneted to router
+ 2016-01-19 19:39:03,939 - DEBUG- logged in
+ 2016-01-19 19:39:03,939 - DEBUG- dossing
+ 2016-01-19 19:39:33,079 - DEBUG- connecting
+ 2016-01-19 19:39:33,416 - DEBUG- connected
+ 2016-01-19 19:39:33,416 - DEBUG- conneted to router
+ 2016-01-19 19:39:33,998 - DEBUG- logged in
+ 2016-01-19 19:39:33,998 - DEBUG- dossing
+ 2016-01-19 19:39:40,584 - DEBUG- connecting
+ 2016-01-19 19:39:40,961 - DEBUG- connected
+ 2016-01-19 19:39:40,961 - DEBUG- conneted to router
+ 2016-01-19 19:39:41,395 - DEBUG- logged in
+ 2016-01-19 19:39:41,395 - DEBUG- dossing
+ 2016-01-19 19:40:28,969 - DEBUG- connecting
+ 2016-01-19 19:40:28,999 - DEBUG- connected
+ 2016-01-19 19:40:29,000 - DEBUG- conneted to router
+ 2016-01-19 19:40:29,004 - DEBUG- logged in
+ 2016-01-19 19:40:29,004 - DEBUG- dossing
+ 2016-01-19 19:40:36,102 - DEBUG- connecting
+ 2016-01-19 19:40:36,975 - DEBUG- connected
+ 2016-01-19 19:40:36,975 - DEBUG- conneted to router
+ 2016-01-19 19:41:07,895 - DEBUG- connecting
+ 2016-01-19 19:41:08,085 - DEBUG- connected
+ 2016-01-19 19:41:08,085 - DEBUG- conneted to router
+ 2016-01-19 19:41:08,584 - DEBUG- logged in
+ 2016-01-19 19:41:08,584 - DEBUG- dossing
+ 2016-01-19 19:41:15,220 - DEBUG- connecting
+ 2016-01-19 19:41:17,014 - DEBUG- connected
+ 2016-01-19 19:41:17,015 - DEBUG- conneted to router
+ 2016-01-19 19:41:17,062 - DEBUG- logged in
+ 2016-01-19 19:41:17,062 - DEBUG- dossing
+ 2016-01-19 19:41:51,456 - DEBUG- connecting
+ 2016-01-19 19:41:51,849 - DEBUG- connected
+ 2016-01-19 19:41:51,850 - DEBUG- conneted to router
+ 2016-01-19 19:41:52,343 - DEBUG- logged in
+ 2016-01-19 19:41:52,343 - DEBUG- dossing
+ 2016-01-19 19:42:01,705 - DEBUG- connecting
+ 2016-01-19 19:42:02,481 - DEBUG- connected
+ 2016-01-19 19:42:02,481 - DEBUG- conneted to router
+ 2016-01-19 19:42:21,156 - DEBUG- connecting
+ 2016-01-19 19:42:22,552 - DEBUG- connected
+ 2016-01-19 19:42:22,552 - DEBUG- conneted to router
+ 2016-01-19 19:42:24,806 - DEBUG- logged in
+ 2016-01-19 19:42:24,806 - DEBUG- dossing
+ 2016-01-19 19:42:28,840 - DEBUG- connecting
+ 2016-01-19 19:42:28,847 - DEBUG- connected
+ 2016-01-19 19:42:28,847 - DEBUG- conneted to router
+ 2016-01-19 19:42:28,853 - DEBUG- logged in
+ 2016-01-19 19:42:28,853 - DEBUG- dossing
+ 2016-01-19 19:43:00,035 - DEBUG- connecting
+ 2016-01-19 19:43:00,133 - DEBUG- connected
+ 2016-01-19 19:43:00,133 - DEBUG- conneted to router
+ 2016-01-19 19:43:00,137 - DEBUG- logged in
+ 2016-01-19 19:43:00,137 - DEBUG- dossing
+ 2016-01-19 19:43:07,381 - DEBUG- connecting
+ 2016-01-19 19:43:08,351 - DEBUG- connected
+ 2016-01-19 19:43:08,351 - DEBUG- conneted to router
+ 2016-01-19 19:43:38,891 - DEBUG- connecting
+ 2016-01-19 19:43:39,342 - DEBUG- connected
+ 2016-01-19 19:43:39,342 - DEBUG- conneted to router
+ 2016-01-19 19:43:39,865 - DEBUG- logged in
+ 2016-01-19 19:43:39,866 - DEBUG- dossing
+ 2016-01-19 19:43:47,976 - DEBUG- connecting
+ 2016-01-19 19:43:48,876 - DEBUG- connected
+ 2016-01-19 19:43:48,877 - DEBUG- conneted to router
+ 2016-01-19 19:43:49,030 - DEBUG- logged in
+ 2016-01-19 19:43:49,030 - DEBUG- dossing
+ 2016-01-19 19:44:21,691 - DEBUG- connecting
+ 2016-01-19 19:44:22,567 - DEBUG- connected
+ 2016-01-19 19:44:22,567 - DEBUG- conneted to router
+ 2016-01-19 19:44:23,079 - DEBUG- logged in
+ 2016-01-19 19:44:23,079 - DEBUG- dossing
+ 2016-01-19 19:44:30,154 - DEBUG- connecting
+ 2016-01-19 19:44:31,578 - DEBUG- connected
+ 2016-01-19 19:44:31,578 - DEBUG- conneted to router
+ 2016-01-19 19:44:32,397 - DEBUG- logged in
+ 2016-01-19 19:44:32,398 - DEBUG- dossing
+ 2016-01-19 19:45:01,554 - DEBUG- connecting
+ 2016-01-19 19:45:02,913 - DEBUG- connected
+ 2016-01-19 19:45:02,913 - DEBUG- conneted to router
+ 2016-01-19 19:45:03,425 - DEBUG- logged in
+ 2016-01-19 19:45:03,425 - DEBUG- dossing
+ 2016-01-19 19:45:08,900 - DEBUG- connecting
+ 2016-01-19 19:45:09,333 - DEBUG- connected
+ 2016-01-19 19:45:09,334 - DEBUG- conneted to router
+ 2016-01-19 19:45:09,877 - DEBUG- logged in
+ 2016-01-19 19:45:09,877 - DEBUG- dossing
+ 2016-01-19 19:45:49,021 - DEBUG- connecting
+ 2016-01-19 19:45:49,315 - DEBUG- connected
+ 2016-01-19 19:45:49,316 - DEBUG- conneted to router
+ 2016-01-19 19:45:51,285 - DEBUG- logged in
+ 2016-01-19 19:45:51,286 - DEBUG- dossing
+ 2016-01-19 19:45:56,414 - DEBUG- connecting
+ 2016-01-19 19:45:56,879 - DEBUG- connected
+ 2016-01-19 19:45:56,879 - DEBUG- conneted to router
+ 2016-01-19 19:45:57,011 - DEBUG- logged in
+ 2016-01-19 19:45:57,012 - DEBUG- dossing
+ 2016-01-19 19:46:27,950 - DEBUG- connecting
+ 2016-01-19 19:46:28,419 - DEBUG- connected
+ 2016-01-19 19:46:28,419 - DEBUG- conneted to router
+ 2016-01-19 19:46:28,936 - DEBUG- logged in
+ 2016-01-19 19:46:28,936 - DEBUG- dossing
+ 2016-01-19 19:46:35,504 - DEBUG- connecting
+ 2016-01-19 19:46:35,894 - DEBUG- connected
+ 2016-01-19 19:46:35,894 - DEBUG- conneted to router
+ 2016-01-19 19:46:36,406 - DEBUG- logged in
+ 2016-01-19 19:46:36,407 - DEBUG- dossing
+ 2016-01-19 19:47:07,073 - DEBUG- connecting
+ 2016-01-19 19:47:07,453 - DEBUG- connected
+ 2016-01-19 19:47:07,454 - DEBUG- conneted to router
+ 2016-01-19 19:47:07,946 - DEBUG- logged in
+ 2016-01-19 19:47:07,946 - DEBUG- dossing
+ 2016-01-19 19:47:14,443 - DEBUG- connecting
+ 2016-01-19 19:47:14,909 - DEBUG- connected
+ 2016-01-19 19:47:14,910 - DEBUG- conneted to router
+ 2016-01-19 19:47:16,855 - DEBUG- logged in
+ 2016-01-19 19:47:16,855 - DEBUG- dossing
+ 2016-01-19 19:47:52,126 - DEBUG- connecting
+ 2016-01-19 19:47:52,492 - DEBUG- connected
+ 2016-01-19 19:47:52,492 - DEBUG- conneted to router
+ 2016-01-19 19:47:53,003 - DEBUG- logged in
+ 2016-01-19 19:47:53,004 - DEBUG- dossing
+ 2016-01-19 19:48:01,996 - DEBUG- connecting
+ 2016-01-19 19:48:02,954 - DEBUG- connected
+ 2016-01-19 19:48:02,954 - DEBUG- conneted to router
+ 2016-01-19 19:48:33,505 - DEBUG- connecting
+ 2016-01-19 19:48:34,012 - DEBUG- connected
+ 2016-01-19 19:48:34,013 - DEBUG- conneted to router
+ 2016-01-19 19:48:34,458 - DEBUG- logged in
+ 2016-01-19 19:48:34,458 - DEBUG- dossing
+ 2016-01-19 19:48:42,427 - DEBUG- connecting
+ 2016-01-19 19:48:43,455 - DEBUG- connected
+ 2016-01-19 19:48:43,456 - DEBUG- conneted to router
+ 2016-01-19 19:48:43,897 - DEBUG- logged in
+ 2016-01-19 19:48:43,897 - DEBUG- dossing
+ 2016-01-19 19:49:13,953 - DEBUG- connecting
+ 2016-01-19 19:49:14,413 - DEBUG- connected
+ 2016-01-19 19:49:14,413 - DEBUG- conneted to router
+ 2016-01-19 19:49:14,954 - DEBUG- logged in
+ 2016-01-19 19:49:14,954 - DEBUG- dossing
+ 2016-01-19 19:49:21,402 - DEBUG- connecting
+ 2016-01-19 19:49:21,861 - DEBUG- connected
+ 2016-01-19 19:49:21,861 - DEBUG- conneted to router
+ 2016-01-19 19:49:22,400 - DEBUG- logged in
+ 2016-01-19 19:49:22,401 - DEBUG- dossing
+ 2016-01-19 19:49:52,960 - DEBUG- connecting
+ 2016-01-19 19:49:53,428 - DEBUG- connected
+ 2016-01-19 19:49:53,429 - DEBUG- conneted to router
+ 2016-01-19 19:49:53,955 - DEBUG- logged in
+ 2016-01-19 19:49:53,955 - DEBUG- dossing
+ 2016-01-19 19:50:00,435 - DEBUG- connecting
+ 2016-01-19 19:50:00,855 - DEBUG- connected
+ 2016-01-19 19:50:00,856 - DEBUG- conneted to router
+ 2016-01-19 19:50:02,763 - DEBUG- logged in
+ 2016-01-19 19:50:02,764 - DEBUG- dossing
+ 2016-01-19 19:50:31,624 - DEBUG- connecting
+ 2016-01-19 19:50:32,139 - DEBUG- connected
+ 2016-01-19 19:50:32,139 - DEBUG- conneted to router
+ 2016-01-19 19:50:32,656 - DEBUG- logged in
+ 2016-01-19 19:50:32,656 - DEBUG- dossing
+ 2016-01-19 19:50:39,152 - DEBUG- connecting
+ 2016-01-19 19:50:39,611 - DEBUG- connected
+ 2016-01-19 19:50:39,611 - DEBUG- conneted to router
+ 2016-01-19 19:50:40,068 - DEBUG- logged in
+ 2016-01-19 19:50:40,068 - DEBUG- dossing
+ 2016-01-19 19:51:10,684 - DEBUG- connecting
+ 2016-01-19 19:51:11,065 - DEBUG- connected
+ 2016-01-19 19:51:11,065 - DEBUG- conneted to router
+ 2016-01-19 19:51:11,663 - DEBUG- logged in
+ 2016-01-19 19:51:11,663 - DEBUG- dossing
+ 2016-01-19 19:51:18,162 - DEBUG- connecting
+ 2016-01-19 19:51:18,627 - DEBUG- connected
+ 2016-01-19 19:51:18,627 - DEBUG- conneted to router
+ 2016-01-19 19:51:20,572 - DEBUG- logged in
+ 2016-01-19 19:51:20,573 - DEBUG- dossing
+ 2016-01-19 19:51:49,374 - DEBUG- connecting
+ 2016-01-19 19:51:49,859 - DEBUG- connected
+ 2016-01-19 19:51:49,859 - DEBUG- conneted to router
+ 2016-01-19 19:51:50,326 - DEBUG- logged in
+ 2016-01-19 19:51:50,326 - DEBUG- dossing
+ 2016-01-19 19:51:56,970 - DEBUG- connecting
+ 2016-01-19 19:51:57,309 - DEBUG- connected
+ 2016-01-19 19:51:57,309 - DEBUG- conneted to router
+ 2016-01-19 19:51:57,857 - DEBUG- logged in
+ 2016-01-19 19:51:57,857 - DEBUG- dossing
+ 2016-01-19 19:52:28,485 - DEBUG- connecting
+ 2016-01-19 19:52:28,874 - DEBUG- connected
+ 2016-01-19 19:52:28,874 - DEBUG- conneted to router
+ 2016-01-19 19:52:29,387 - DEBUG- logged in
+ 2016-01-19 19:52:29,387 - DEBUG- dossing
+ 2016-01-19 19:52:35,878 - DEBUG- connecting
+ 2016-01-19 19:52:36,350 - DEBUG- connected
+ 2016-01-19 19:52:36,350 - DEBUG- conneted to router
+ 2016-01-19 19:52:38,296 - DEBUG- logged in
+ 2016-01-19 19:52:38,296 - DEBUG- dossing
+ 2016-01-19 19:53:07,174 - DEBUG- connecting
+ 2016-01-19 19:53:07,582 - DEBUG- connected
+ 2016-01-19 19:53:07,582 - DEBUG- conneted to router
+ 2016-01-19 19:53:08,094 - DEBUG- logged in
+ 2016-01-19 19:53:08,095 - DEBUG- dossing
+ 2016-01-19 19:53:15,091 - DEBUG- connecting
+ 2016-01-19 19:53:15,774 - DEBUG- connected
+ 2016-01-19 19:53:15,774 - DEBUG- conneted to router
+ 2016-01-19 19:53:49,418 - DEBUG- connecting
+ 2016-01-19 19:53:49,772 - DEBUG- connected
+ 2016-01-19 19:53:49,772 - DEBUG- conneted to router
+ 2016-01-19 19:53:50,284 - DEBUG- logged in
+ 2016-01-19 19:53:50,284 - DEBUG- dossing
+ 2016-01-19 19:53:56,810 - DEBUG- connecting
+ 2016-01-19 19:53:57,257 - DEBUG- connected
+ 2016-01-19 19:53:57,258 - DEBUG- conneted to router
+ 2016-01-19 19:53:57,760 - DEBUG- logged in
+ 2016-01-19 19:53:57,760 - DEBUG- dossing
+ 2016-01-19 19:54:28,383 - DEBUG- connecting
+ 2016-01-19 19:54:28,787 - DEBUG- connected
+ 2016-01-19 19:54:28,787 - DEBUG- conneted to router
+ 2016-01-19 19:54:29,299 - DEBUG- logged in
+ 2016-01-19 19:54:29,300 - DEBUG- dossing
+ 2016-01-19 19:54:35,793 - DEBUG- connecting
+ 2016-01-19 19:54:36,263 - DEBUG- connected
+ 2016-01-19 19:54:36,263 - DEBUG- conneted to router
+ 2016-01-19 19:54:36,775 - DEBUG- logged in
+ 2016-01-19 19:54:36,775 - DEBUG- dossing
+ 2016-01-19 19:55:07,332 - DEBUG- connecting
+ 2016-01-19 19:55:07,802 - DEBUG- connected
+ 2016-01-19 19:55:07,803 - DEBUG- conneted to router
+ 2016-01-19 19:55:08,240 - DEBUG- logged in
+ 2016-01-19 19:55:08,241 - DEBUG- dossing
+ 2016-01-19 19:55:14,818 - DEBUG- connecting
+ 2016-01-19 19:55:15,223 - DEBUG- connected
+ 2016-01-19 19:55:15,224 - DEBUG- conneted to router
+ 2016-01-19 19:55:17,224 - DEBUG- logged in
+ 2016-01-19 19:55:17,224 - DEBUG- dossing
+ 2016-01-19 19:55:46,457 - DEBUG- connecting
+ 2016-01-19 19:55:47,022 - DEBUG- connected
+ 2016-01-19 19:55:47,023 - DEBUG- conneted to router
+ 2016-01-19 19:55:47,433 - DEBUG- logged in
+ 2016-01-19 19:55:47,433 - DEBUG- dossing
+ 2016-01-19 19:55:54,033 - DEBUG- connecting
+ 2016-01-19 19:55:54,498 - DEBUG- connected
+ 2016-01-19 19:55:54,498 - DEBUG- conneted to router
+ 2016-01-19 19:55:55,010 - DEBUG- logged in
+ 2016-01-19 19:55:55,010 - DEBUG- dossing
+ 2016-01-19 19:56:27,106 - DEBUG- connecting
+ 2016-01-19 19:56:27,471 - DEBUG- connected
+ 2016-01-19 19:56:27,471 - DEBUG- conneted to router
+ 2016-01-19 19:56:27,984 - DEBUG- logged in
+ 2016-01-19 19:56:27,984 - DEBUG- dossing
+ 2016-01-19 19:56:35,987 - DEBUG- connecting
+ 2016-01-19 19:56:36,995 - DEBUG- connected
+ 2016-01-19 19:56:36,995 - DEBUG- conneted to router
+ 2016-01-19 19:57:12,643 - DEBUG- connecting
+ 2016-01-19 19:57:12,977 - DEBUG- connected
+ 2016-01-19 19:57:12,977 - DEBUG- conneted to router
+ 2016-01-19 19:57:13,444 - DEBUG- logged in
+ 2016-01-19 19:57:13,444 - DEBUG- dossing
+ 2016-01-19 19:57:21,076 - DEBUG- connecting
+ 2016-01-19 19:57:21,949 - DEBUG- connected
+ 2016-01-19 19:57:21,950 - DEBUG- conneted to router
+ 2016-01-19 19:57:22,564 - DEBUG- logged in
+ 2016-01-19 19:57:22,564 - DEBUG- dossing
+ 2016-01-19 19:57:52,635 - DEBUG- connecting
+ 2016-01-19 19:57:52,875 - DEBUG- connected
+ 2016-01-19 19:57:52,875 - DEBUG- conneted to router
+ 2016-01-19 19:57:53,356 - DEBUG- logged in
+ 2016-01-19 19:57:53,356 - DEBUG- dossing
+ 2016-01-19 19:57:59,103 - DEBUG- connecting
+ 2016-01-19 19:57:59,491 - DEBUG- connected
+ 2016-01-19 19:57:59,491 - DEBUG- conneted to router
+ 2016-01-19 19:57:59,840 - DEBUG- logged in
+ 2016-01-19 19:57:59,841 - DEBUG- dossing
+ 2016-01-19 19:57:59,892 - DEBUG- connecting
+ 2016-01-19 19:58:01,374 - DEBUG- connected
+ 2016-01-19 19:58:01,374 - DEBUG- conneted to router
+ 2016-01-19 19:58:32,552 - DEBUG- connecting
+ 2016-01-19 19:58:32,914 - DEBUG- connected
+ 2016-01-19 19:58:32,915 - DEBUG- conneted to router
+ 2016-01-19 19:58:32,966 - DEBUG- connecting
+ 2016-01-19 19:58:33,426 - DEBUG- logged in
+ 2016-01-19 19:58:33,426 - DEBUG- dossing
+ 2016-01-19 19:58:35,345 - DEBUG- connected
+ 2016-01-19 19:58:35,345 - DEBUG- conneted to router
+ 2016-01-19 19:58:36,498 - DEBUG- logged in
+ 2016-01-19 19:58:36,499 - DEBUG- dossing
+ 2016-01-19 19:58:41,665 - DEBUG- connecting
+ 2016-01-19 19:58:42,329 - DEBUG- connected
+ 2016-01-19 19:58:42,329 - DEBUG- conneted to router
+ 2016-01-19 19:58:42,873 - DEBUG- connecting
+ 2016-01-19 19:58:43,047 - DEBUG- logged in
+ 2016-01-19 19:58:43,047 - DEBUG- dossing
+ 2016-01-19 19:59:13,286 - DEBUG- connecting
+ 2016-01-19 19:59:13,775 - DEBUG- connected
+ 2016-01-19 19:59:13,776 - DEBUG- conneted to router
+ 2016-01-19 19:59:14,182 - DEBUG- logged in
+ 2016-01-19 19:59:14,182 - DEBUG- dossing
+ 2016-01-19 19:59:18,089 - DEBUG- connected
+ 2016-01-19 19:59:20,632 - DEBUG- connecting
+ 2016-01-19 19:59:21,145 - DEBUG- connected
+ 2016-01-19 19:59:21,146 - DEBUG- conneted to router
+ 2016-01-19 19:59:21,658 - DEBUG- logged in
+ 2016-01-19 19:59:21,658 - DEBUG- dossing
+ 2016-01-19 19:59:53,337 - DEBUG- connecting
+ 2016-01-19 19:59:53,709 - DEBUG- connected
+ 2016-01-19 19:59:53,709 - DEBUG- conneted to router
+ 2016-01-19 19:59:54,221 - DEBUG- logged in
+ 2016-01-19 19:59:54,222 - DEBUG- dossing
+ 2016-01-19 20:00:00,716 - DEBUG- connecting
+ 2016-01-19 20:00:02,618 - DEBUG- connected
+ 2016-01-19 20:00:02,618 - DEBUG- conneted to router
+ 2016-01-19 20:00:03,335 - DEBUG- logged in
+ 2016-01-19 20:00:03,335 - DEBUG- dossing
+ 2016-01-19 20:00:31,779 - DEBUG- connecting
+ 2016-01-19 20:00:31,842 - DEBUG- connected
+ 2016-01-19 20:00:31,843 - DEBUG- conneted to router
+ 2016-01-19 20:00:31,848 - DEBUG- logged in
+ 2016-01-19 20:00:31,848 - DEBUG- dossing
+ 2016-01-19 20:00:38,912 - DEBUG- connecting
+ 2016-01-19 20:00:39,790 - DEBUG- connected
+ 2016-01-19 20:00:39,790 - DEBUG- conneted to router
+ 2016-01-19 20:01:10,624 - DEBUG- connecting
+ 2016-01-19 20:01:10,921 - DEBUG- connected
+ 2016-01-19 20:01:10,922 - DEBUG- conneted to router
+ 2016-01-19 20:01:11,379 - DEBUG- logged in
+ 2016-01-19 20:01:11,379 - DEBUG- dossing
+ 2016-01-19 20:01:20,696 - DEBUG- connecting
+ 2016-01-19 20:01:21,263 - DEBUG- connected
+ 2016-01-19 20:01:21,263 - DEBUG- conneted to router
+ 2016-01-19 20:01:53,356 - DEBUG- connecting
+ 2016-01-19 20:01:54,228 - DEBUG- connected
+ 2016-01-19 20:01:54,229 - DEBUG- conneted to router
+ 2016-01-19 20:01:54,749 - DEBUG- logged in
+ 2016-01-19 20:01:54,749 - DEBUG- dossing
+ 2016-01-19 20:02:01,137 - DEBUG- connecting
+ 2016-01-19 20:02:01,712 - DEBUG- connected
+ 2016-01-19 20:02:01,712 - DEBUG- conneted to router
+ 2016-01-19 20:02:02,224 - DEBUG- logged in
+ 2016-01-19 20:02:02,224 - DEBUG- dossing
+ 2016-01-19 20:02:32,552 - DEBUG- connecting
+ 2016-01-19 20:02:32,963 - DEBUG- connected
+ 2016-01-19 20:02:32,964 - DEBUG- conneted to router
+ 2016-01-19 20:02:33,566 - DEBUG- logged in
+ 2016-01-19 20:02:33,566 - DEBUG- dossing
+ 2016-01-19 20:02:41,633 - DEBUG- connecting
+ 2016-01-19 20:02:41,948 - DEBUG- connected
+ 2016-01-19 20:02:41,948 - DEBUG- conneted to router
+ 2016-01-19 20:03:13,153 - DEBUG- connecting
+ 2016-01-19 20:03:13,496 - DEBUG- connected
+ 2016-01-19 20:03:13,496 - DEBUG- conneted to router
+ 2016-01-19 20:03:14,970 - DEBUG- logged in
+ 2016-01-19 20:03:14,971 - DEBUG- dossing
+ 2016-01-19 20:03:20,602 - DEBUG- connecting
+ 2016-01-19 20:03:22,742 - DEBUG- connected
+ 2016-01-19 20:03:22,742 - DEBUG- conneted to router
+ 2016-01-19 20:03:23,532 - DEBUG- logged in
+ 2016-01-19 20:03:23,532 - DEBUG- dossing
+ 2016-01-19 20:03:52,044 - DEBUG- connecting
+ 2016-01-19 20:03:52,253 - DEBUG- connected
+ 2016-01-19 20:03:52,253 - DEBUG- conneted to router
+ 2016-01-19 20:03:52,818 - DEBUG- logged in
+ 2016-01-19 20:03:52,819 - DEBUG- dossing
+ 2016-01-19 20:03:59,315 - DEBUG- connecting
+ 2016-01-19 20:03:59,781 - DEBUG- connected
+ 2016-01-19 20:03:59,782 - DEBUG- conneted to router
+ 2016-01-19 20:04:00,294 - DEBUG- logged in
+ 2016-01-19 20:04:00,294 - DEBUG- dossing
+ 2016-01-19 20:04:36,295 - DEBUG- connecting
+ 2016-01-19 20:04:36,789 - DEBUG- connected
+ 2016-01-19 20:04:36,789 - DEBUG- conneted to router
+ 2016-01-19 20:04:37,261 - DEBUG- logged in
+ 2016-01-19 20:04:37,263 - DEBUG- dossing
+ 2016-01-19 20:05:16,219 - DEBUG- connecting
+ 2016-01-19 20:05:19,021 - DEBUG- connected
+ 2016-01-19 20:05:19,021 - DEBUG- conneted to router
+ 2016-01-19 20:05:19,518 - DEBUG- logged in
+ 2016-01-19 20:05:19,519 - DEBUG- dossing
+ 2016-01-19 20:05:24,109 - DEBUG- connecting
+ 2016-01-19 20:05:24,570 - DEBUG- connected
+ 2016-01-19 20:05:24,571 - DEBUG- conneted to router
+ 2016-01-19 20:05:25,004 - DEBUG- logged in
+ 2016-01-19 20:05:25,004 - DEBUG- dossing
+ 2016-01-19 20:05:55,162 - DEBUG- connecting
+ 2016-01-19 20:05:55,270 - DEBUG- connected
+ 2016-01-19 20:05:55,270 - DEBUG- conneted to router
+ 2016-01-19 20:05:55,275 - DEBUG- logged in
+ 2016-01-19 20:05:55,275 - DEBUG- dossing
+ 2016-01-19 20:06:02,611 - DEBUG- connecting
+ 2016-01-19 20:06:02,696 - DEBUG- connected
+ 2016-01-19 20:06:02,696 - DEBUG- conneted to router
